@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Velo Bicycle Computer" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Antalya Konyaaltı - Beldibi Sahil Şeridi</name>
+  </metadata>
+  <trk>
+    <name>Antalya Sahil Parkuru</name>
+    <type>Cycling</type>
+    <trkseg>
+      <trkpt lat="36.8841" lon="30.7056"><ele>38.0</ele><time>2026-11-10T08:00:00Z</time></trkpt>
+      <trkpt lat="36.8812" lon="30.6980"><ele>32.0</ele><time>2026-11-10T08:05:00Z</time></trkpt>
+      <trkpt lat="36.8770" lon="30.6850"><ele>24.0</ele><time>2026-11-10T08:12:00Z</time></trkpt>
+      <trkpt lat="36.8725" lon="30.6650"><ele>15.0</ele><time>2026-11-10T08:20:00Z</time></trkpt>
+      <trkpt lat="36.8650" lon="30.6350"><ele>8.0</ele><time>2026-11-10T08:35:00Z</time></trkpt>
+      <trkpt lat="36.8520" lon="30.6050"><ele>6.0</ele><time>2026-11-10T08:50:00Z</time></trkpt>
+      <trkpt lat="36.8350" lon="30.5850"><ele>12.0</ele><time>2026-11-10T09:05:00Z</time></trkpt>
+      <trkpt lat="36.8120" lon="30.5650"><ele>18.0</ele><time>2026-11-10T09:25:00Z</time></trkpt>
+      <trkpt lat="36.7850" lon="30.5550"><ele>22.0</ele><time>2026-11-10T09:45:00Z</time></trkpt>
+      <trkpt lat="36.7550" lon="30.5480"><ele>28.0</ele><time>2026-11-10T10:10:00Z</time></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
