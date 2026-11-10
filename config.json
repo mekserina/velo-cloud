@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "min_app_version": 1,
+  "latest_app_version": 1,
+  "announcement": {
+    "active": true,
+    "title": "Velo Bulut Ağı Aktif",
+    "message": "Velo Akıllı Yol Bilgisayarı bulut ağ geçidine bağlı. Harita ve hava durumu katmanları devrede.",
+    "type": "info"
+  },
+  "endpoints": {
+    "map_osm_standard": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+    "map_cyclosm": "https://a.tile-cyclosm.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png",
+    "map_opentopo": "https://a.tile.opentopomap.org/{z}/{x}/{y}.png",
+    "weather_primary": "https://api.openweathermap.org/data/2.5/weather",
+    "weather_fallback": "https://api.open-meteo.com/v1/forecast"
+  },
+  "community_routes": [
+    {
+      "id": "antalya_coastal",
+      "name": "Antalya Konyaaltı - Beldibi Sahil Şeridi",
+      "distance_km": 28.45,
+      "elevation_gain_m": 145.0,
+      "gpx_url": "https://raw.githubusercontent.com/mekserina/velo-cloud/main/routes/antalya_coastal.gpx"
+    }
+  ]
+}
